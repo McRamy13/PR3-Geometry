@@ -6,6 +6,12 @@ using System.Threading.Tasks;
 
 namespace PR3_GeometryClass
 {
+    /// <summary>
+    /// Class Figura
+    /// <remarks>
+    /// Clase padre.
+    /// </remarks>
+    /// </summary>
     class Figura
     {
         protected float x, y;
